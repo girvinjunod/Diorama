@@ -1,0 +1,6 @@
+[submodule "Diorama-BE"]
+	path = Diorama-BE
+	url = git@github.com:girvinjunod/Diorama-BE.git
+[submodule "Diorama-FE"]
+	path = Diorama-FE
+	url = git@github.com:girvinjunod/Diorama-FE.git
